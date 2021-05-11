@@ -1,1 +1,28 @@
-
+body{
+ Background-color:green;
+}
+.place{
+ border-style:solid;
+ border-color:brown;
+ background-color:purple;
+}
+.youtube{
+ border-style:solid;
+ border-color:blueviolet;
+ Background-color:red;
+}
+.media{
+  border-style:solid;
+  border-color:yellow;
+  background-color:pink;
+}
+.website{
+ border-style:solid;
+ border-color:royalblue;
+ Background-color:violet;
+}
+.website2{
+ border-style:solid;
+ border-color:orangered;
+ background-color:gold;
+}
